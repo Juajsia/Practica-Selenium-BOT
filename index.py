@@ -207,6 +207,7 @@ print(f"archivo {nombre_archivo} guardado.")
 
 bot.save_screenshot('capturaPantalla.png')
 
+print(f"captura de pantalla guardada.")
 
 time.sleep(3)
 bot.quit()
